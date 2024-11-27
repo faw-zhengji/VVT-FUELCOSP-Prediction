@@ -4,5 +4,4 @@ numpy
 matplotlib
 scipy
 joblib
-io
 plotly
