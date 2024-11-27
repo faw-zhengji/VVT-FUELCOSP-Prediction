@@ -1,4 +1,4 @@
-### How to run it on your own machine
+### How to run
 
 1. Install the requirements
 
