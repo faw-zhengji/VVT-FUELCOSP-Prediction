@@ -1,1 +1,10 @@
 streamlit
+pandas
+numpy
+matplotlib
+scipy
+time
+random
+joblib
+io
+plotly
